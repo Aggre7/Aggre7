@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about Javascript and Compilers :sweat_smile:
 
-- ⚡ Fun fact: I urge you to explore the rabbit hole that is the relationship between compiler bootstrapping and explainable AI(Model Distillation)....
+- ⚡ On my spare time I love exploring the rabbit hole that is the relationship between compiler bootstrapping and explainable AI(Model Distillation)....
 
 
 ## 🛠️ Technologies and Tools I use:

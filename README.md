@@ -31,8 +31,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-- 💬 Ask me about Javascript and Compilers :sweat_smile:
-
 - ⚡ On my spare time I love exploring the rabbit hole that is the relationship between compiler bootstrapping and explainable AI(Model Distillation)....
 
 

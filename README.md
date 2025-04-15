@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🙋‍♂️ All about me is at **[My Website](https://aggreylelei.com/)**
 
--  👀 I’m interested in `Enterprise Systems`: `ReactJS` and `Redux` in the front end and `Spring Framework`, `Redis`, `RabbitMQ` and `AWS` in the backend
+-  👀 I’m interested in `Enterprise Systems`: `ReactJS` and `Redux` in the front end and `Spring Framework`, `Redis`, `Kafka` and `AWS` in the backend
     
 - 🔭 Currently learning `Microservices`.
   

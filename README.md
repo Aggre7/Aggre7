@@ -19,19 +19,15 @@ You can click the Preview link to take a look at your changes.
 
 - 🙋‍♂️ All about me is at **[My Website](https://aggreylelei.com/)**
 
--  👀 I’m interested in `Enterprise Web Technologies`, `ReactJS` and `Redux` in the front end and `NodeJS`, `Redis` and `AWS` in the backend
+-  👀 I’m interested in `Enterprise Systems`: `ReactJS` and `Redux` in the front end and `Spring Framework`, `Redis`, `RabbitMQ` and `AWS` in the backend
     
-- 🔭 Currently learning `Go` and `Enterprise MERN Stacks`.
+- 🔭 Currently learning `Microservices`.
   
 - 🌱 Admirer of `Compilers`
   
 - 👨‍💻💞️ Waiting for `GPT5` to help me tune spotify to reprogram my car to resemble `Bumblebee's Speech Synthesis`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
-
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- ⚡ On my spare time I love exploring the rabbit hole that is the relationship between compiler bootstrapping and explainable AI(Model Distillation)....
+- ⚡ On my spare time I love exploring the rabbit hole that is the relationship between compiler bootstrapping and Model Distillation....
 
 
 ## 🛠️ Technologies and Tools I use:

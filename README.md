@@ -3,8 +3,6 @@ Aggre7/Aggre7 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Aggrey Lelei</h1>
-
  <br/>
 
 ## 👨🏻‍💻 About Me:

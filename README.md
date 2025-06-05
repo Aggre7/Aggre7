@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 -  👀 I’m interested in `Enterprise Systems`: `Spring Boot`, `Redis`, `Kafka` and `AWS` in the backend
     
-- 🔭 Currently learning `Advanced State Machines`.
+- 🔭 Currently learning `Rust`.
     
 - 👨‍💻 Waiting for `GPT5` to help me tune spotify to reprogram my car to resemble `Bumblebee's Speech Synthesis`
 

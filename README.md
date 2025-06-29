@@ -9,15 +9,15 @@ You can click the Preview link to take a look at your changes.
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🥷🏾 Carbon Based Token Predictor with an affinity of compiling Enterprise problems into Coded solutions
+- 🥷🏾 Carbon Based Token Predictor with an autistic affinity of compiling Enterprise problems into Coded solutions
 
--  👀 I’m interested in `Enterprise Systems`: `Spring Boot`, `Redis`, `Kafka` and `AWS` in the backend
-    
-- 🔭 Currently learning `Rust`.
+-  👀 I’m interested in `Enterprise Systems`: `Spring Boot`, `Redis`, `Kafka` and `AWS` in the backend.
     
 - 👨‍💻 Waiting for `GPT5` to help me tune spotify to reprogram my car to resemble `Bumblebee's Speech Synthesis`
 
-- ⚡ On my spare time I love exploring the rabbit hole that is the relationship between compiler bootstrapping and Model Distillation....
+- ⚡ On my spare time I love exploring the rabbit hole that is the relationship between compilers and Model Distillation....
+  
+- 🔭 After all, Reality is Just a Wrapper For Entropy on our Kardashev Gradient Ascent.
 
 
 ## 🛠️ Technologies and Tools I use:

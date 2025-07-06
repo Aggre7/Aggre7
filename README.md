@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🥷🏾 Carbon Based Token Predictor with an autistic affinity of compiling Enterprise problems into Coded solutions
+- 🥷🏾 Carbon Based Token Predictor with an affinity of compiling Enterprise problems into Coded solutions
 
 -  👀 I’m interested in `Enterprise Systems`: `Spring Boot`, `Redis`, `Kafka` and `AWS` in the backend.
     

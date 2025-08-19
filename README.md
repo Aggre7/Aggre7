@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🥷🏾 Carbon Based Token Predictor with an affinity of compiling Enterprise problems into Coded solutions
 

@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🥷🏾 Carbon-Based Token Predictor | Compiler of Distributed Enterprise Chaos into Code
     
-- 👨‍💻 Awaiting `GPT-6` to Fine-tune Spotify and give my car `Bumblebee-style speech synthesis`
+- 👨‍💻 Awaiting `GPT-6` to Fine-tune Spotify and give my car `Bumblebee-Style` `Speech Synthesis`
 
 - ⚡ I spend my free time chasing the rabbit hole where Compiler Theory meets Model Distillation.
   

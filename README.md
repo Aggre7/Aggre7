@@ -8,13 +8,11 @@ You can click the Preview link to take a look at your changes.
 ## 👨🏻‍💻 About Me:
 
 
-- 🥷🏾 Carbon Based Token Predictor with an affinity of compiling Enterprise problems into Coded solutions
-
--  👀 I’m interested in `Distributed Enterprise Systems`: 
+- 🥷🏾 Carbon-Based Token Predictor | Compiler of Distributed Enterprise Chaos into Code
     
-- 👨‍💻 Waiting for `GPT6` to help me tune spotify to reprogram my car to resemble `Bumblebee's Speech Synthesis`
+- 👨‍💻 Awaiting `GPT-6` to Fine-tune Spotify and give my car `Bumblebee-style speech synthesis`
 
-- ⚡ On my spare time I love exploring the rabbit hole that is the relationship between Compilers and Model Distillation....
+- ⚡ I spend my free time chasing the rabbit hole where Compiler Theory meets model distillation.
   
 - 🔭 After all, Reality is Just a Wrapper For Entropy on our Kardashev Gradient Ascent.
 

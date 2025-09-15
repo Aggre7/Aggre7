@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
     
 - 👨‍💻 Awaiting `GPT-6` to Fine-tune Spotify and give my car `Bumblebee-style speech synthesis`
 
-- ⚡ I spend my free time chasing the rabbit hole where Compiler Theory meets model distillation.
+- ⚡ I spend my free time chasing the rabbit hole where Compiler Theory meets Model Distillation.
   
 - 🔭 After all, Reality is Just a Wrapper For Entropy on our Kardashev Gradient Ascent.
 

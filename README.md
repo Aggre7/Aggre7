@@ -13,9 +13,6 @@ You can click the Preview link to take a look at your changes.
   
 - 🔭 After all, Reality is Just a Wrapper For Entropy on our Kardashev Gradient Ascent.
 
-
-## 🛠️ Technologies and Tools I use:
-
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="25px"/>
 <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="25px"/>

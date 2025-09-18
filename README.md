@@ -4,14 +4,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
  <br/>
+👋🏼 Hi there!
 
-- 🥷🏾 Carbon-Based Token Predictor | Compiler of Distributed Enterprise Chaos into Code
-    
-- 👨‍💻 Awaiting `GPT-6` to Fine-tune Spotify and give my car `Bumblebee-Style` `Speech Synthesis`
+- 🥷🏾 Carbon-Based Token Predictor | Distributed Systems Engineer
 
-- ⚡ I spend my free time chasing the rabbit hole where Compiler Theory meets Model Distillation.
+- ⚡ That Being Said I Lead and Manage a team in charge of delivering Enterprise solutions using SpringBoot due to its Exceptional Capabilities, Postgres+Cassandra; (the best) CQRS duo and the rest mentioned below. I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
   
-- 🔭 After all, Reality is Just a Wrapper For Entropy on our Kardashev Gradient Ascent.
+- 👨‍💻 But apparently I'm still waiting on `GPT-6` to Fine-tune Spotify and give my car `Bumblebee-Style` `Speech Synthesis`
+  
+- 🔭 After all, Reality is Just a Wrapper For Information Distribution on our Kardashev Gradient Ascent.
 
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="25px"/>

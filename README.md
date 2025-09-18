@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
  <br/>
 👋🏼 Hi there!
 
-- 🥷🏾 Carbon-Based Token Predictor 😎 | Distributed Systems Engineer
+-  
 
-- ⚡ That Being Said I Lead and Manage a team in charge of delivering Enterprise solutions using SpringBoot due to its Exceptional Capabilities, Postgres+Cassandra; (the best) CQRS duo and the rest mentioned below. I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
+- ⚡ I'm a Distributed Systems Engineer who Leads and Manages a team in charge of delivering solutions using SpringBoot due to its enterprise capabilities, Postgres+Cassandra and the rest mentioned below. I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
   
 - 👨‍💻 On a side note I'm still waiting on `GPT-6` to Fine-tune Spotify (& eventually Netflix) and give my car `Low-Latency` `Bumblebee-Style` `Speech Synthesis`
   

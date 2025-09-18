@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ That Being Said I Lead and Manage a team in charge of delivering Enterprise solutions using SpringBoot due to its Exceptional Capabilities, Postgres+Cassandra; (the best) CQRS duo and the rest mentioned below. I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
   
-- 👨‍💻 On a side note I'm still waiting on `GPT-6` to Fine-tune Spotify and give my car `Bumblebee-Style` `Speech Synthesis`
+- 👨‍💻 On a side note I'm still waiting on `GPT-6` to Fine-tune Spotify and give my car `Low-Latency` `Bumblebee-Style` `Speech Synthesis`
   
 - 🔭 After all, Reality is Just a Wrapper For Information Distribution on our Kardashev Gradient Ascent.
 

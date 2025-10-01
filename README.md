@@ -6,11 +6,9 @@ You can click the Preview link to take a look at your changes.
  <br/>
 👋🏼 Hi there!
 
-- ⚡ I'm a Distributed Systems Engineer who Leads and Manages a team in charge of delivering solutions using SpringBoot due to its enterprise capabilities, Postgres+Cassandra and the rest mentioned below. I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
-  
-- 👨‍💻 On a side note I'm still waiting on `GPT-6` to Fine-tune Spotify (& eventually Netflix) and give my car `Low-Latency` `Bumblebee-Style` `Speech Synthesis`
-  
-- 🔭 After all, Reality is Just a Wrapper For Information Distribution on our Kardashev Gradient Ascent.
+- ⚡ I'm a Distributed Systems Engineer mostly  writing SpringBoot, Postgres+Cassandra, Kafka and the rest mentioned below. I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
+    
+- 🔭  Reality is Just a Wrapper For Information Distribution on our Kardashev Gradient Ascent.
 
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="25px"/>
